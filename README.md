@@ -1,14 +1,12 @@
-# html5chess
-chess in web, write with js.
+# tinychess
 
-Made just for fun. [Play it here!](http://scaiz.com/webchess/)
+JS写的国际象棋程序，包含功能为：解题模式，AI对战，分析模式，对战模式
 
+目前大部分功能仍未完成，作者正着力于解决AI问题
 
-## Contributing
-Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
+在线地址：[http://tinychess.scaiz.com/](http://tinychess.scaiz.com/)
+
 
 ## License
 webchess is licensed under the [MIT license.](http://scaiz.com/webchess/LICENSE.txt)
 
-
-纯js实现的chess小程序,主要功能为练习tatics,复盘分析等.
